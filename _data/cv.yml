@@ -100,7 +100,7 @@ cv:
         publisher: Design, Automation and Test in Europe Conference (DATE)
         releaseDate: 2026-04-20
         summary: To appear. Presented work on design-space exploration for affordable precision agriculture systems.
-      
+
       - title: "Demo Abstract: Cost-Effective Rover for Farms"
         authors:
           - Pawan Kumar
@@ -124,7 +124,7 @@ cv:
         publisher: Arizona State University
         releaseDate: 2024
         summary: Master's thesis on a cyber-physical system approach for precision agriculture focused on crop growth.
-      
+
       - title: A comparative study of SARS COVID-19 using X-ray and CT scan images using deep learning techniques
         authors:
           - Pawan Kumar
@@ -189,11 +189,10 @@ cv:
           - Evaluated accuracy, precision, recall, and F1 score
 
     Awards:
-
       - title: YPP Travel Award for DATE Conference
         date: 2026
         awarder: Design, Automation and Test in Europe (DATE)
-      
+
       - title: Travel award to present in Rapid system prototyping workshop as part of ESWEEK 2024
         date: 2024
         awarder: Arizona State University Graduate College
