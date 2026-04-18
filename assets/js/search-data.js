@@ -399,13 +399,6 @@ ninja.data = [{
           title: 'To present accepted paper in DATE 2026 and demo in ReCPS workshop.',
           description: "",
           section: "News",},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -413,25 +406,25 @@ ninja.data = [{
           window.open("mailto:%70%6B%75%6D%61%72%39%37@%61%73%75.%65%64%75", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/saipavan4", "_blank");
-        },
-      },{
         id: 'social-linkedin',
-        title: 'Linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://www.linkedin.com/in/pawan-kumar-7ab62a16a", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://scholar.google.com/citations?user=N7TSkx4AAAAJ", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0000-8982-0635", "_blank");
         },
       },{
         id: 'social-rss',
@@ -439,20 +432,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-google_scholar',
-        title: 'Google_scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
-        id: 'social-orcid',
-        title: 'Orcid',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
