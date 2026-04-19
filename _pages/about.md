@@ -29,7 +29,7 @@ latest_posts:
 
 I am a Ph.D. student in Computer Engineering at Arizona State University, advised by Prof. Hokeun Kim. My research interests include embedded systems, cyber-physical systems, robotics, and machine learning.
 
-My recent work focuses on affordable precision agriculture systems, including rover-based sensing platforms, crop monitoring, and cyber-physical system design for real-world environments. I previously completed my M.S. in Computer Engineering at Arizona State University, where my thesis explored a cost-effective cyber-physical system prototype for precision agriculture with a focus on crop growth.
+My recent work focuses on collaborative robotic systems, particularly UAV–UGV platforms, where I study energy-aware mission planning, charging coordination, and adaptive operation in practical environments. I previously completed my M.S. in Computer Engineering at Arizona State University, where my thesis explored a cost-effective cyber-physical system prototype for precision agriculture with a focus on crop growth.
 
 I am broadly interested in building practical, intelligent, and scalable systems that connect sensing, computation, and autonomy for real-world applications.
 
